@@ -1,0 +1,5 @@
+Agent,Output
+FarmAgent,Field A irrigation: 73
+FarmAgent,Field B irrigation: 123
+MarketAgent,Tomato price: 25
+MarketAgent,Rice price: 18
